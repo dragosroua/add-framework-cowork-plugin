@@ -1,0 +1,24 @@
+{
+  "name": "add-framework",
+  "description": "Assess-Decide-Do (ADD) productivity framework - cognitive realm awareness for Claude. Detect if you're assessing, deciding, or doing—and get appropriately aligned responses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dragos Roua",
+    "url": "https://dragosroua.com"
+  },
+  "homepage": "https://dragosroua.com/supercharging-claude-with-the-assess-decide-do-framework-mega-prompt-inside/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragosroua/add-framework-cowork-plugin"
+  },
+  "keywords": [
+    "productivity",
+    "cognitive-framework",
+    "ADD",
+    "assess-decide-do",
+    "task-management",
+    "flow-state",
+    "ADHD-friendly"
+  ],
+  "license": "MIT"
+}
