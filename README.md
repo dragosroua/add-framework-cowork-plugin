@@ -9,14 +9,15 @@ This plugin brings the Assess-Decide-Do (ADD) framework to Claude Cowork, enabli
 
 ## Installation
 
-### From GitHub Marketplace
-
+### GitHub Marketplace
 ```bash
-# Add the marketplace
 /plugin marketplace add dragosroua/add-framework-cowork-plugin
+/plugin install add-framework
+```
 
-# Install the plugin
-/plugin install add-framework@dragosroua
+### Direct Install (alternative)
+```bash
+/plugin install github:dragosroua/add-framework-cowork-plugin
 ```
 
 ### From Local Directory
