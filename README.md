@@ -119,7 +119,7 @@ git subtree pull --prefix=skills \
 - **[add-framework-skills](https://github.com/dragosroua/add-framework-skills)** — Universal ADD skills (source of truth)
 - **[claude-assess-decide-do-mega-prompt](https://github.com/dragosroua/claude-assess-decide-do-mega-prompt)** — Full Claude Code integration
 - **[addTaskManager](https://itunes.apple.com/app/apple-store/id1492487688?mt=8)** — iOS/macOS app implementing ADD
-- **[Assess - Decide - Do hubpage on dragosroua.com](https://addtaskmanager.com)** — all related framework posts from 2009 to 2026
+- **[Assess - Decide - Do hubpage on dragosroua.com](https://dragosroua.com/assess-decide-do-framework/)** — all related framework posts from 2009 to 2026
 
 ## License
 
