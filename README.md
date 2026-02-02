@@ -9,24 +9,18 @@ This plugin brings the Assess-Decide-Do (ADD) framework to Claude Cowork, enabli
 
 ## Installation
 
-### GitHub Marketplace
-```bash
-/plugin marketplace add dragosroua/add-framework-cowork-plugin
-/plugin install add-framework
-```
+**Option 1: Upload Plugin (Recommended)**
+1. Download this repository (Code → Download ZIP) or `git clone`
+2. Open Claude Desktop → Cowork tab
+3. Click **Plugins** in the left sidebar
+4. Click **Upload plugin**
+5. Select the downloaded plugin folder
 
-### Direct Install (alternative)
-```bash
-/plugin install github:dragosroua/add-framework-cowork-plugin
-```
-
-### From Local Directory
-
+**Option 2: Clone & Upload**
 ```bash
 git clone https://github.com/dragosroua/add-framework-cowork-plugin.git
-/plugin marketplace add ./add-framework-cowork-plugin
-/plugin install add-framework
 ```
+Then upload the folder via Cowork → Plugins → Upload plugin
 
 ## Commands
 
