@@ -1,0 +1,11 @@
+{
+  "name": "dragosroua-marketplace",
+  "description": "Dragos Roua's Claude plugins",
+  "plugins": [
+    {
+      "name": "add-framework",
+      "description": "ADD cognitive framework - Assess, Decide, Do",
+      "source": "github:dragosroua/add-framework-cowork-plugin"
+    }
+  ]
+}
